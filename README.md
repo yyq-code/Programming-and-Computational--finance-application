@@ -1,4 +1,4 @@
-# Programming-and-Computational-Finance
+# Programming and Computational Finance Application
 
 ### Fundamental of Data Analysis in Python - Part 1
 

@@ -1,8 +1,8 @@
 # Programming and Computational Finance 
 
-### Data Analysis in Python - Part 1
+### Fundamental of Data Analysis in Python - Part 1 + Mongo Database
 
-### Data Analysis in Python - Part 2
+### Fundamental of Data Analysis in Python - Part 2
 
 ### Posterior analysis in Data Analysis
 
